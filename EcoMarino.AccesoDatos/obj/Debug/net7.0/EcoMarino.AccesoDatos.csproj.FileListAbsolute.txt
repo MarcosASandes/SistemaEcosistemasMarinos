@@ -1,0 +1,60 @@
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfo.cs
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.deps.json
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.dll
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.pdb
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CopyComplete
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\refint\EcoMarino.AccesoDatos.dll
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\Marcos\Desktop\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\ref\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.deps.json
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.dll
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.pdb
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\refint\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obl p3 actualizado\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\ref\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.deps.json
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.dll
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.pdb
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\refint\EcoMarino.AccesoDatos.dll
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\alumnoFI\Desktop\obl\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\ref\EcoMarino.AccesoDatos.dll
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.deps.json
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.dll
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\bin\Debug\net7.0\EcoMarino.pdb
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.AssemblyInfo.cs
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.csproj.CopyComplete
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.dll
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\refint\EcoMarino.AccesoDatos.dll
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\EcoMarino.AccesoDatos.pdb
+C:\Users\asus\Desktop\ORT\PROGRAMACION 3\OBLIGATORIO\P3 - OBL - MS FS V1.8\P3 - OBL - Marcos Sandes Florencia Santos\ObligatorioP3\EcoMarino.AccesoDatos\obj\Debug\net7.0\ref\EcoMarino.AccesoDatos.dll
